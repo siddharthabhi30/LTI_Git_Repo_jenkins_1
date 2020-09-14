@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Jeeeekkkis.!!!!</h2>
+<h2>Welcome to Jeeeekkis.!!!!</h2>
 </body>
 </html>
